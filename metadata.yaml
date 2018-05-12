@@ -1,0 +1,42 @@
+_repo: The-Submarine-Hunters--A-Story-of-the-Naval-Patrol-Work-in-the-Great-War_26641
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodgson, E. S. (Edward Smith)
+    aliases:
+    - Hodgson, E.S.
+    - Hodgson, Edward Smith
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '9707'
+    url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: archival
+  image_path: 26641-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: Get set for high seas adventure in this thrilling read from action-adventure
+  master Percy F. Westerman. Full of realistic details gleaned from Westerman's own
+  time in the Royal Navy, this classic World War I story will leave readers breathless
+  with suspense.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+title: 'The Submarine Hunters: A Story of the Naval Patrol Work in the Great War'
+url: http://www.gutenberg.org/ebooks/26641
